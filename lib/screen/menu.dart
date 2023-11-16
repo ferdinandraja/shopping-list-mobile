@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shopping_list/widgets/left_drawer.dart';
 import 'package:shopping_list/screen/shoplist_form.dart';
-import 'package:shopping_list/widgets/shop_card.dart'
+import 'package:shopping_list/widgets/shop_card.dart';
 class MyHomePage extends StatelessWidget {
     MyHomePage({Key? key}) : super(key: key);
     final List<ShopItem> items = [
